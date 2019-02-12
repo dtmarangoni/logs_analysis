@@ -30,8 +30,7 @@ database files, and Vagrant configuration file. Get from [here](https://github.c
 
 ## Instructions
 
-1 - Get the Linux VM up and access it. Navigate to the project folder inside
- Vagrant shared folder.
+1 - Get the Linux VM up and access it. Then navigate to the project folder.
 
 2 - Unzip the database file - newsdata.sql, and use the command below to 
 populate it with data:
