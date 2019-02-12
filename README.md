@@ -12,6 +12,9 @@ Those are the questions printed in the report in plain text format:
 
 3 - On which days did more than 1% of requests lead to errors?
 
+This is a project developed during Udacity Full Stack Web Developer
+Nanodegree course. The newspaper database contains demo data. The
+intention was to apply Python, Database and SQL theory in practice.
 
 ## Requirements
 
@@ -25,8 +28,8 @@ database files, and Vagrant configuration file. Get from [here](https://github.c
 - Python 3 installed in Vagrant Linux VM(not tested with Python 2);
 - Python 3 modules:
   - If not already, please install pip3;
-  - psycopg2: `python sudo pip3 install psycopg2` and `sudo pip3 install 
-  psycopg2-binary`;
+  - psycopg2: `sudo pip3 install psycopg2` and `sudo pip3 install 
+  psycopg2-binary`.
 
 ## Instructions
 
