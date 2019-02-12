@@ -21,7 +21,7 @@ In order to run this tool you will need:
     version for your system;
     - [VirtualBox 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).
 - Clone or download the project files. It includes the source codes, 
-database files, and Vagrant configuration file. Get from [here]();
+database files, and Vagrant configuration file. Get from [here](https://github.com/dtmarangoni/logs_analysis);
 - Python 3 installed in Vagrant Linux VM(not tested with Python 2);
 - Python 3 modules:
   - If not already, please install pip3;
